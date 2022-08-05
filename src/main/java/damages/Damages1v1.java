@@ -9,7 +9,6 @@ import com.microsoft.playwright.Playwright;
 public class Damages1v1 {
     public static void main(String[] args) {
 
-
         Playwright playwright = Playwright.create();
 
         {
